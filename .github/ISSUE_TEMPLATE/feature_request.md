@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: 
+about: New Feature
 title: "[FEAT]"
 labels: enhancement
 assignees: ''
