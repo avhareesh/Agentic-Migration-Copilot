@@ -1,4 +1,4 @@
-# Project Report (Template)
+# Project Report
 
 ## 1. Introduction
 - Problem statement and motivation
