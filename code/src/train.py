@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Minimal training script skeleton for an AI capstone project.
+"""Agentic Migration Copilot.
 
 Run:
     python -m code.src.train --config code/configs/config.yaml --data_dir data/sample
