@@ -1,0 +1,5 @@
+# Minimal runtime deps (add as needed)
+numpy
+pandas
+scikit-learn
+pyyaml

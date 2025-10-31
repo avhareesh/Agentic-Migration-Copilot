@@ -1,0 +1,60 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_convert/
+*.nb.html
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs / outputs
+*.log
+*.out
+*.onnx
+*.bin
+*.pt
+*.pth
+*.h5
+*.ckpt
+*.pickle
+*.pkl
+
+# Data (keep small samples only)
+data/raw/
+data/interim/
+data/processed/
+!data/sample/**
+
+# Python tooling
+.mypy_cache/
+.pytest_cache/
+coverage.xml
+htmlcov/
+.coverage
+pytestdebug.log
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Environment / secrets
+.env
+.env.*
+*.secret
+secret.*
+secrets.*

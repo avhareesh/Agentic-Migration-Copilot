@@ -1,0 +1,9 @@
+# Default configuration for training
+seed: 42
+model:
+  name: "baseline"
+  hidden_dim: 128
+train:
+  epochs: 5
+  batch_size: 32
+  lr: 0.001
